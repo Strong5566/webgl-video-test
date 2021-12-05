@@ -1,0 +1,24 @@
+{
+   "UrlMap":{
+      "Default":{
+         "APIDomain":"http://plant-hero.cameo.tw",
+         "GameDataUrl":"https://plant-try.vercel.app/GameData",
+         "LoginUrl":"https://plant-hero.cameo.tw/web/web_login/web_login.html"
+      },
+      "https://plant-hero.cameo.tw/":{
+         "APIDomain":"https://plant-hero.cameo.tw",
+         "GameDataUrl":"https://plant-web.vercel.app/GameData",
+         "LoginUrl":"https://plant-hero.cameo.tw/web/web_login/web_login.html"
+      },
+      "https://adl.edu.tw/trees/":{
+         "APIDomain":"https://adl.edu.tw/trees",
+         "GameDataUrl":"https://adl.edu.tw/trees/web/static/plant_web/GameData",
+         "LoginUrl":"https://adl.edu.tw/HomePage/login/?sys=planting"
+      },
+      "https://plant-try.vercel.app/":{
+         "APIDomain":"https://plant-hero.cameo.tw",
+         "GameDataUrl":"https://plant-try.vercel.app/GameData",
+         "LoginUrl":"https://plant-hero.cameo.tw/web/web_login/web_login.html"
+      }
+   }
+}
